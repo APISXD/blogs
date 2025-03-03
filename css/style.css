@@ -432,7 +432,7 @@ a:hover{
 	background-repeat: no-repeat;
 }
 .banner_bg{
-	background-image: url(../images/banner\ pala.jpg);
+	background-image: url(../images/rev\ banner\ aseli.jpg);
 	background-size: cover;
 	background-position: center center;
 	position: relative;
@@ -511,6 +511,10 @@ a:hover{
 /* ----------------------------------------------------------------
     [ 05 Start About ]
 -----------------------------------------------------------------*/
+.hidden-item {
+    display: none;
+}
+
 .about_image img{
 	box-shadow: 0 5px 14px 0 rgb(0 0 0 / 6%);
 	padding: 10px;
@@ -746,7 +750,7 @@ a:hover{
 -----------------------------------------------------------------*/
 
 #counter_area{
-    background: url(../images/counter.jpg);
+    background: url(../images/rev\ counter.jpg);
 	position: relative;
     background-size: cover;
     background-attachment: fixed;
